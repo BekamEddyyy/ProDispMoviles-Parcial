@@ -1,0 +1,28 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Quiz Game</string>
+    
+    <!-- WelcomeFragment -->
+    <string name="welcome_title">Bienvenido al Juego de Preguntas</string>
+    <string name="welcome_intro">Prepárate para poner a prueba tus conocimientos y aprender de manera divertida.</string>
+    <string name="start_game">Comenzar Juego</string>
+    
+    <!-- QuestionFragment -->
+    <string name="sample_question">¿Cuál es la capital de Francia?</string>
+    <string name="option_a">Londres</string>
+    <string name="option_b">Madrid</string>
+    <string name="option_c">París</string>
+    <string name="option_d">Berlín</string>
+    <string name="submit">Enviar</string>
+    
+    <!-- AnswerFragment -->
+    <string name="correct_or_incorrect">¿Correcto o Incorrecto?</string>
+    <string name="correct_answer">¡Correcto!</string>
+    <string name="incorrect_answer">Incorrecto</string>
+    <string name="next_question">Siguiente Pregunta</string>
+    <string name="feedback_detail">Detalles de la respuesta correcta</string>
+    
+    <!-- Results and errors -->
+    <string name="final_score">Tu puntuación final es: %1$d</string>
+    <string name="error_message">Ha ocurrido un error, por favor intenta nuevamente.</string>
+</resources>
