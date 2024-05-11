@@ -7,4 +7,8 @@
     <color name="gray">#888888</color>
     <color name="red">#D32F2F</color>
     <color name="green">#4CAF50</color>
+    <color name="yellow">#FFEB3B</color>  <!-- Agregado para advertencias o resaltados -->
+    <color name="blue_light">#03A9F4</color>  <!-- Agregado para información o enlaces -->
+    <color name="purple_light">#BA68C8</color>  <!-- Agregado para elementos no esenciales o decorativos -->
+    <color name="background_light">#F5F5F5</color>  <!-- Agregado para fondos claros de pantallas o secciones -->
 </resources>
