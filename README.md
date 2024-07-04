@@ -18,7 +18,7 @@ Este proyecto es una implementación del popular juego Flappy Birds. En este jue
 - Flappy Bird generó ingresos significativos a través de publicidad dentro del juego.
 - **Sitio oficial del creador**: [Dong Nguyen en Twitter](https://twitter.com/dongatory)
 
-## Tecnologías Utilizadas para Nuestro Flappy Birds
+## 1. Tecnologías Utilizadas para Nuestro Flappy Birds
 
 Para realizar nuestro propio proyecto de Flappy Birds, utilizamos las siguientes tecnologías:
 
