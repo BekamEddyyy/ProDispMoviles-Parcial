@@ -53,6 +53,7 @@ Para realizar nuestro propio proyecto de Flappy Birds, utilizamos las siguientes
         ```python
         pygame.display.flip()
         ```
+## 2. Forma en que se Estructuró Nuestro Juego de Flappy Birds
 
 
 
