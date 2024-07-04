@@ -18,6 +18,41 @@ Este proyecto es una implementación del popular juego Flappy Birds. En este jue
 - Flappy Bird generó ingresos significativos a través de publicidad dentro del juego.
 - **Sitio oficial del creador**: [Dong Nguyen en Twitter](https://twitter.com/dongatory)
 
+## Tecnologías Utilizadas para Nuestro Flappy Birds
+
+Para realizar nuestro propio proyecto de Flappy Birds, utilizamos las siguientes tecnologías:
+
+- **Lenguaje de Programación**: Python
+
+- **Librería**: `import pygame`
+  - Para utilizar `pygame`, sigue estos pasos:
+    1. **Instalar la librería**:
+        ```sh
+        pip install pygame
+        ```
+    2. **Inicializar `pygame` en tu script**:
+        ```python
+        import pygame
+        pygame.init()
+        ```
+    3. **Crear una ventana de juego**:
+        ```python
+        screen = pygame.display.set_mode((ancho, alto))
+        ```
+    4. **Controlar el bucle del juego**:
+        ```python
+        running = True
+        while running:
+            for event in pygame.event.get():
+                if event.type == pygame.QUIT:
+                    running = False
+        pygame.quit()
+        ```
+    5. **Actualizar la pantalla**:
+        ```python
+        pygame.display.flip()
+        ```
+
 
 
 
