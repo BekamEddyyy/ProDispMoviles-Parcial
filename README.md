@@ -26,7 +26,7 @@ Para realizar nuestro propio proyecto de Flappy Birds, utilizamos las siguientes
   - Utilizamos Python debido a su simplicidad y facilidad de uso, lo que permite un desarrollo rápido y eficiente. Además, Python ofrece una excelente gestión de imágenes y gráficos, lo que es crucial para un juego como Flappy Birds. La comunidad y el soporte de Python son extensos, proporcionando numerosos recursos y librerías adicionales que pueden facilitar el desarrollo de juegos.
 
 - **Librería**: `import pygame`
-  - Para utilizar `pygame`, sigue estos pasos:
+  - Pygame es una biblioteca de código abierto diseñada para crear videojuegos. Nos ayuda a crear juegos y programas multimedia completamente funcionales en Python. Para utilizar `pygame`, sigue estos pasos:
     1. **Instalar la librería**:
         ```sh
         pip install pygame
